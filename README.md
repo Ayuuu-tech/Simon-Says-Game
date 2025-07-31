@@ -8,12 +8,6 @@ You can try the game by opening `index.html` in your browser.
 
 ---
 
-## 📸 Preview
-
-![Simon Says Preview](#)  
-> _Add a screenshot here of your game screen if desired._
-
----
 
 ## 🚀 Features
 
